@@ -1,0 +1,10 @@
+.flexContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: self-end;
+}
+.card-container {
+  flex: 1 0 21%; /* explanation below */
+}

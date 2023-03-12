@@ -1,0 +1,29 @@
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  padding: 2%;
+  background-color: black;
+  color: rgb(251, 181, 63);
+  border-radius: 5%;
+  border: 3px solid rgb(251, 181, 63);
+}
